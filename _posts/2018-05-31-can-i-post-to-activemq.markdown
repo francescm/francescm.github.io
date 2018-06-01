@@ -2,7 +2,7 @@
 layout: post
 title:  "Can I publish to activemq with stomp?"
 date:   2018-05-31 10:20:49 +0200
-categories: elixir, mix, stomp
+tags: elixir mix stomp
 ---
 The today's challenge is to push a message to activemq via stomp.
 
