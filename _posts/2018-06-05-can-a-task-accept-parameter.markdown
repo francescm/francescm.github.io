@@ -37,4 +37,6 @@ defmodule Mix.Tasks.Publish do
 end
 {% endhighlight %}
 
-To handle more user-defined headers we would need some recursion, but it would be even better to enjoy a reduce pattern.
+To handle more user-defined headers we would need some recursion, specifically to [add elements to a map][add_to_a_map] but it would be even better to enjoy a reduce pattern.
+
+[add_to_a_map]: https://elixir-examples.github.io/examples/add-to-a-map

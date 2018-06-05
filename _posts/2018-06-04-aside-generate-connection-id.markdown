@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An aside to enum: generate a connection_id"
+title:  "An aside to Enum: generate a connection_id"
 date:   2018-06-04 07:20:49 +0200
 tags: elixir enum
 ---
