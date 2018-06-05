@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An aside to enum: generate a connection_id"
-date:   2018-06-01 07:20:49 +0200
+date:   2018-06-04 07:20:49 +0200
 tags: elixir enum
 ---
 Activemq is happy if a client sets a connection_id. It is also useful when browsing queues from web console because it's like a connection key.
