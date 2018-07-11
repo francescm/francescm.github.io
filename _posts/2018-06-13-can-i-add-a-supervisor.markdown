@@ -4,11 +4,11 @@ title:  "Can I add a supervisor?"
 date:   2018-06-13 07:54:49 +0200
 tags: elixir otp
 ---
-The critical result I want to achieve is to have an application that can restart if ActiveMQ stops or hangs or somehow is not reacheble.
+The critical result I want to achieve is to have an application that can restart if ActiveMQ stops or hangs or somehow is not reacheable.
 
 A part of the solution is a `Supervisor`.
 
-But a `Supervisor` can't do nothing unless the supervised apps crashes. And right now, it doesn't happen because the `ConnectionHandler` traps the `on_disconnecr` message.
+But a `Supervisor` can't do nothing unless the supervised apps crashes. And right now, it doesn't happen because the `ConnectionHandler` traps the `on_disconnect` message.
 
 So, the first step is to delete from `lib/stomp/connection_handler.ex` the function:
 {% highlight elixir %}
