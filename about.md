@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-When is too late to learn?
+What about starting development without any Integrated development environment?
 
-Is it already so for me? Is it my last chanche to learn a language?
+Let's explore some strategies.

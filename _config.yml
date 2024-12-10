@@ -18,7 +18,7 @@ title: switch to vim
 description: >- 
     Drop an IDE and embrace the command line
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://francescm.github.io
 #twitter_username: jekyllrb
 github_username: francescm
 
@@ -27,6 +27,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+exclude:
+  - backup/
+sass:
+  quiet_deps: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
