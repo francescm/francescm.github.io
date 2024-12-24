@@ -1,3 +1,10 @@
+---
+layout: post
+title: "rationals"
+date: 2024-12-24 12:23:00 CET
+categories: overview
+---
+
 # Motivations
 
 Why would you want to leave your trusted IDE (Jetbrains RubyMine) to 
