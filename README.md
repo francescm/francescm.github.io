@@ -1,7 +1,7 @@
-## francescm.github.io
+# francescm.github.io
 
-Just another brouillion from my expolations.
+Just another brouillion from my explorations.
 
-# Tech details
+## Tech details
 
-jekyll-based brog with ruby 3.3.4
+```jekyll```-based brog with ruby 3.3.4
