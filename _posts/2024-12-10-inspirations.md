@@ -11,3 +11,4 @@ categories: references
 * [install NvChad](https://docs.rockylinux.org/books/nvchad/install_nvchad/)
 * [omakub-inspired setup on macos](https://dylancastillo.co/til/install-alacritty-and-zellij-in-macos.html)
 * [alacritty and tmux gluing, good for zellij too](https://jonfpersson.github.io/Code-Crust/productivity/2023/01/11/Configuring-terminal-tools.html)
+* [zellij integrations](https://zellij.dev/documentation/integration.html)
